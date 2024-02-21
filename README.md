@@ -1,3 +1,5 @@
+![Header](img/github-header.png)
+
 # Welcome to my GitHub Profile 👋
 
 ### About Me
