@@ -28,4 +28,4 @@ I leverage my industrial methods and programming skills to develop innovative an
 - **API Development**: ![API](https://img.shields.io/badge/-API-0298C3?style=flat-square&logo=rest&logoColor=white)
 
 ### Contact Me
-For collaboration or if you have any questions, feel free to send me a message on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/yoannrouquie/)https://www.linkedin.com/in/yoannrouquie) 📬
+For collaboration or if you have any questions, feel free to send me a message on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoannrouquie/) 📬
