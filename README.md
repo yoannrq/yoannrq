@@ -23,7 +23,6 @@ I leverage my industrial methods and programming skills to develop innovative an
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-939393?style=flat-square&logo=ejs&logoColor=white)
 - **Databases & ORM**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
