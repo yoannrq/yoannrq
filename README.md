@@ -2,31 +2,54 @@
 
 # Welcome to my GitHub Profile 👋
 
-### About Me
+## About Me
+
 With a diverse background in the industry, where I acquired **efficiency** and **rigor**, I have recently redirected my career path towards my passion for programming by completing an intensive training in web development, focusing on **JavaScript full stack with an emphasis on APIs and Data**. 👨‍💻
 
 This transition has endowed me with a solid mastery of modern web technologies and an expanded vision of the creative possibilities in the digital world. 🧠
 
 I leverage my industrial methods and programming skills to develop innovative and optimized application solutions. 🧰
 
-### What Drives Me
+## What Drives Me
+
 - **Curiosity** and **critical thinking**. 💡
 - The constant pursuit of **innovation** and **optimization**.
 
-### My Skills
-- **Languages & Frameworks**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/-EJS-939393?style=flat-square&logo=ejs&logoColor=white)
-- **Databases & ORM**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-- **API Development**: ![API](https://img.shields.io/badge/-API-0298C3?style=flat-square&logo=rest&logoColor=white)
+## Technologies
 
-### Contact Me
-For collaboration or if you have any questions, feel free to send me a message on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoannrouquie/) 📬
+### Front-end
+
+<div style="display: flex; flex-direction: row; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="bulma" height="50">
+</div>
+
+### Back-end
+
+<div style="display: flex; flex-direction: row; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="50">
+</div>
+
+## Contact Me
+
+For collaboration or if you have any questions, feel free to send me a message on
+
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <a href="https://www.linkedin.com/in/yoannrouquie">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="linkedin" height="50">
+  </a>
+  <a href="https://x.com/YoannRq">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="X Twitter" height="50">
+  </a>
+  <a href="https://github.com/yoannrq">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="Github" height="50">
+  </a>
+</div>
