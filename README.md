@@ -53,3 +53,7 @@ For collaboration or if you have any questions, feel free to send me a message o
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="Github" height="50">
   </a>
 </div>
+
+## Statistics
+
+![YoannRq's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoannrq&count_private=true&show_icons=true&theme=dracula)
