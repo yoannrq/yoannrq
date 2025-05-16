@@ -4,11 +4,13 @@
 
 ## About Me
 
-With a diverse background in the industry, where I acquired **efficiency** and **rigor**, I have redirected my career path towards my passion for programming by completing an intensive training in programming. 👨‍💻
+With a diverse background in the industry, where I acquired **efficiency** and **rigor**, I have redirected my career path towards my passion for programming by completing an intensive training. 👨‍💻
 
 This transition has endowed me with a solid mastery of modern web technologies and an expanded vision of the creative possibilities in the digital world. 🧠
 
 I leverage my industrial methods and programming skills to develop innovative and optimized application solutions. 🧰
+
+Currently Developer Full Stack at <a href="https://voyage.aprr.fr/">APRR - Eiffage concessions</a> 🚗
 
 ## What Drives Me
 
@@ -70,3 +72,5 @@ For collaboration or if you have any questions, feel free to send me a message o
 ## Statistics
 
 ![YoannRq's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoannrq&count_private=true&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoannrq&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
