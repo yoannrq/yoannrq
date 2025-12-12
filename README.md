@@ -10,7 +10,7 @@ This transition has endowed me with a solid mastery of modern web technologies a
 
 I leverage my industrial methods and programming skills to develop innovative and optimized application solutions. 🧰
 
-Currently Developer Full Stack at <a href="https://voyage.aprr.fr/">APRR - Eiffage concessions</a> 🚗
+Currently working at <a href="https://voyage.aprr.fr/">APRR - Eiffage concessions</a> 🚗 as developer.
 
 ## What Drives Me
 
