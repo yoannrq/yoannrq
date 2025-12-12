@@ -28,16 +28,15 @@ Currently Developer Full Stack at <a href="https://voyage.aprr.fr/">APRR - Eiffa
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="azuredevops" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" height="50">
 </div>
 
 ### Front-end
 
 <div style="display: flex; flex-direction: row; gap: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/capacitor/capacitor-original.svg" alt="capacitor" height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" height="50">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height="50">
 </div>
 
@@ -61,16 +60,7 @@ For collaboration or if you have any questions, feel free to send me a message o
   <a href="https://www.linkedin.com/in/yoannrouquie">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="linkedin" height="50">
   </a>
-  <a href="https://x.com/YoannRq">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="X Twitter" height="50">
-  </a>
   <a href="https://github.com/yoannrq">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="Github" height="50">
   </a>
 </div>
-
-## Statistics
-
-![YoannRq's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoannrq&count_private=true&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoannrq&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
